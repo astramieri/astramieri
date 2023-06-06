@@ -11,7 +11,7 @@ Here's a glimpse of what I do/like.
 
 ### 🌙 Nighttime
 
-- Indie Hacker and *wannabe* aspiring entrepreneur
+- Indie Hacker and *aspiring* entrepreneur
 - Building side projects from the ground up, embracing the full development lifecycle
 
 Feel free to reach out to me for collaborations or if you have any interesting ideas! 😄
