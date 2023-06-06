@@ -1,6 +1,6 @@
-## Hi there! 👋
+### Hi there! 👋
 
-I'm Angelo, a versatile Software Engineer who thrives on both Database Development and Indie Hacking projects. 
+I'm Angelo, a *versatile* Software Engineer who thrives on both database development and indie hacking projects. 
 
 Here's a glimpse of what I do/like.
 
@@ -13,6 +13,11 @@ Here's a glimpse of what I do/like.
 
 - Indie Hacker and *aspiring* entrepreneur
 - Building side projects from the ground up, embracing the full development lifecycle
+
+### 💡 Passions
+- Reading books (check out my [notes](https://github.com/astramieri/book-notes)!)
+- Personal Finance
+- Chess
 
 Feel free to reach out to me for collaborations or if you have any interesting ideas! 😄
 
