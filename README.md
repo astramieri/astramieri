@@ -1,15 +1,15 @@
-# Hi there! 👋
+## Hi there! 👋
 
 I'm Angelo, a versatile Software Engineer who thrives on both Database Development and Indie Hacking projects. 
 
 Here's a glimpse of what I do/like.
 
-## 💼 Daytime:
+### 💼 Daytime:
 
 - Oracle Developer with strong expertise in SQL, PL/SQL, and APEX.
 - Designing and developing robust Oracle database solutions/applications.
 
-## 🌙 Nighttime:
+### 🌙 Nighttime:
 
 - Indie Hacker and aspiring entrepreneur.
 - Building side projects to solve real-world problems.
