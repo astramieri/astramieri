@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**astramieri/astramieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Angelo, a versatile software engineer who thrives on both database development and indie hacking projects. 
 
-Here are some ideas to get you started:
+Here's a glimpse of what I do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Daytime:
+
+- Oracle Developer with strong expertise in SQL, PL/SQL, and APEX.
+- Creating efficient database solutions and optimizing queries.
+- Designing and developing robust Oracle applications.
+
+## 🌙 Nighttime:
+
+- Indie Hacker and aspiring entrepreneur.
+- Brainstorming and cultivating ideas for exciting projects.
+- Building side projects to solve real-world problems.
+
+Feel free to reach out to me for collaborations or if you have any interesting ideas! 😄
+
