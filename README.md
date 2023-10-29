@@ -4,7 +4,7 @@ I'm Angelo, a *versatile* Software Engineer who thrives on both database develop
 
 Here's a glimpse of what I do/like.
 
-- Day-time: Oracle Developer with strong expertise in SQL, PL/SQL, and APEX
+- Day-time: Software Engineer with strong expertise in Oracle DB development
 - Night-time: Indie Hacker and *aspiring* entrepreneur
 - Reasons: Reading books, Personal finance, Chess
 
