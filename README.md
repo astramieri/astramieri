@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Angelo, a *curious* Software Engineer with a deep passion for software development and data. I love exploring new ideas, building things, and continually learning.
+I'm Angelo, a *curious* Software Engineer with a strong dedication to software development and data-driven solutions. I thrive on exploring innovative ideas, creating impactful systems, and constantly expanding my knowledge to stay at the forefront of technology.
 
 Here's a quick snapshot of what keeps me busy:
 
