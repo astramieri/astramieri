@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Angelo, a *curious* Software Engineer with a deep passion for software development and indie hacking. I love exploring new ideas, building things, and continually learning.
+I'm Angelo, a *curious* Software Engineer with a deep passion for software development and data. I love exploring new ideas, building things, and continually learning.
 
 Here's a quick snapshot of what keeps me busy:
 
