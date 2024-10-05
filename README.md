@@ -1,12 +1,13 @@
 ### Hi there! 👋
 
-I'm Angelo, a *curious* Software Engineer passionate about both software development and indie hacking projects. 
+I'm Angelo, a *curious* Software Engineer with a deep passion for software development and indie hacking. I love exploring new ideas, building things, and continually learning.
 
-Here's a glimpse of what I do/like.
+Here's a quick snapshot of what keeps me busy:
 
-- Day-time: Software Engineer with special focus in Oracle DB development (PL/SQL & APEX)
-- Free-time: Indie Hacker and *aspiring* entrepreneur
-- Passions: Reading books, Personal finance, Automation games
+- Day job: Software Engineer with a focus on Oracle DB development 🖥️
+- Night shift: Data Engineer, diving deep into data solutions 🔍
+- Free time: Indie hacker and aspiring entrepreneur, always on the lookout for the [next project](https://retroquest.app/)💡
+- Passions: Self-improvement books 📖, Personal finance 💰, and Automation games 🎮 (I'm a big [Factorio](https://www.factorio.com/) fan!)
 
 Feel free to reach out to me for collaborations or if you have any interesting ideas! 😉
 
